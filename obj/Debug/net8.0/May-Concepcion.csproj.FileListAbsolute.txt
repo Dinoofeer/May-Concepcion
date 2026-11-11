@@ -1,0 +1,15 @@
+C:\Users\juega\tarea\May-Concepcion\obj\Debug\net8.0\May-Concepcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juega\tarea\May-Concepcion\obj\Debug\net8.0\May-Concepcion.AssemblyInfoInputs.cache
+C:\Users\juega\tarea\May-Concepcion\obj\Debug\net8.0\May-Concepcion.AssemblyInfo.cs
+C:\Users\juega\tarea\May-Concepcion\obj\Debug\net8.0\May-Concepcion.csproj.CoreCompileInputs.cache
+C:\Users\juega\tarea\May-Concepcion\obj\Debug\net8.0\May-Concepcion.sourcelink.json
+C:\Users\juega\tarea\May-Concepcion\bin\Debug\net8.0\May-Concepcion.exe
+C:\Users\juega\tarea\May-Concepcion\bin\Debug\net8.0\May-Concepcion.deps.json
+C:\Users\juega\tarea\May-Concepcion\bin\Debug\net8.0\May-Concepcion.runtimeconfig.json
+C:\Users\juega\tarea\May-Concepcion\bin\Debug\net8.0\May-Concepcion.dll
+C:\Users\juega\tarea\May-Concepcion\bin\Debug\net8.0\May-Concepcion.pdb
+C:\Users\juega\tarea\May-Concepcion\obj\Debug\net8.0\May-Concepcion.dll
+C:\Users\juega\tarea\May-Concepcion\obj\Debug\net8.0\refint\May-Concepcion.dll
+C:\Users\juega\tarea\May-Concepcion\obj\Debug\net8.0\May-Concepcion.pdb
+C:\Users\juega\tarea\May-Concepcion\obj\Debug\net8.0\May-Concepcion.genruntimeconfig.cache
+C:\Users\juega\tarea\May-Concepcion\obj\Debug\net8.0\ref\May-Concepcion.dll
